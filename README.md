@@ -5,7 +5,7 @@ Neural network to predict taxi destination
 This work aims at resolving a Kaggle Competition to predict the destination of taxi trips based on initial partial trajectories: https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/overview.
 
 This project is composed of four notebook files:
-  - Data_viz.ipynb : it visualizes data to prepare the feature engineering
+  - Data_visualisation.ipynb : it visualizes data to prepare the feature engineering
   - Tensoring.ipynb : it pre-processes data to put them in tensor form, and adapt them to our network.
   - Network_taxi.ipynb : it defines our neural network and traines it.
   - Test_model.ipynb : it computes results for the test dataset.
